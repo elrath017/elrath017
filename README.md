@@ -58,10 +58,10 @@
 - Implemented feature extraction, sequence generation, and caption prediction pipeline
 - Added multilingual caption generation and front-end integration using React
 
-### 📈 Job Listing Aggregator with Analytics
-- Built a job analytics platform by scraping listings from multiple job portals
-- Analyzed in-demand skills, salary trends, and job distribution
-- Used Flask, PostgreSQL, Pandas, and data visualization libraries
+### 🎬 Movie Recommendation System
+- Developed a machine learning-based recommendation system using content-based filtering and cosine similarity
+- Performed data preprocessing, feature engineering, and vectorization on movie metadata for generating personalized recommendations
+- Built an interactive movie search and recommendation interface using Python and Streamlit
 
 ### 🎬 Netflix Movie Data Analysis
 - Performed exploratory data analysis and visualization on Netflix dataset
