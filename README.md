@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:00d4ff&text=Rahul%20Kumar%20Pramanik&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Power%20BI%20Developer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/header-neural.svg" width="100%" alt="Rahul Kumar Pramanik - AI Engineer and Data Scientist"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=720&lines=Building+agents+that+audit+their+own+hallucinations;Teaching+models+to+catch+0.17%25+fraud+in+under+5ms;Turning+raw+data+into+decisions+people+can+trust;Open+to+remote+AI+%2F+Data+Science+roles" alt="typing"/>
@@ -19,8 +19,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-<img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/neural-network.svg" width="100%" alt="Animated neural network forward pass"/>
 
 [![Email](https://img.shields.io/badge/Email-Rahulkrpramanik@gmail.com-00d4ff?style=flat-square&logo=gmail&logoColor=white)](mailto:Rahulkrpramanik@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul_Pramanik-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-pramanik-284908225/)
