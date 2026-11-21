@@ -20,9 +20,11 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+<img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/neural-network.svg" width="100%" alt="Animated neural network forward pass"/>
+
 [![Email](https://img.shields.io/badge/Email-Rahulkrpramanik@gmail.com-00d4ff?style=flat-square&logo=gmail&logoColor=white)](mailto:Rahulkrpramanik@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul_Pramanik-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-pramanik-284908225/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-203a43?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-elrath017.pythonanywhere.com-203a43?style=flat-square&logo=python&logoColor=00d4ff)](https://elrath017.pythonanywhere.com/)
 
 </div>
 
@@ -59,7 +61,7 @@ class Rahul:
 
 ## 🚀 Featured Projects
 
-### 🧠 Autonomous Agentic RAG Engine
+### 🧠 [Autonomous Agentic RAG Engine](https://github.com/elrath017/Agentic-rag-System)
 > A RAG system that doesn't just answer. It grades its own retrieval, rewrites bad queries, falls back to the web, and audits the final answer for hallucinations.
 
 ```mermaid
@@ -101,9 +103,11 @@ flowchart LR
 
 ---
 
-### 📊 Financial Credit Risk & Loan Portfolio Dashboard
+### 📊 [Financial Credit Risk & Loan Portfolio Dashboard](https://github.com/elrath017/Loan-default-risk-analysis)
 
 Multi-page Power BI dashboard over **50,000+ loan records**: star-schema modeling in Power Query, **25+ DAX measures** (default probability, LGD, delinquent balances) and cohort-level risk segmentation.
+
+<div align="center"><img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/dashboard.svg" width="100%" alt="Animated dashboard preview"/></div>
 
 `Power BI` `DAX` `Power Query` `Star Schema`
 
@@ -156,11 +160,13 @@ Multi-page Power BI dashboard over **50,000+ loan records**: star-schema modelin
 ## 🔭 Currently
 
 - 🧪 Building a **hybrid DS + AI project** that connects classical ML with LLM agents
-- 🌐 Shipping my **portfolio site**, with an LLM chatbot that can talk about my projects
+- 🌐 Evolving my **[portfolio site](https://elrath017.pythonanywhere.com/)**, with an LLM chatbot that can talk about my projects
 - 🌱 Learning: **AI agents & LangGraph** · **LLM fine-tuning** · **MLOps & deployment** · advanced GenAI apps · advanced Power BI
 - 🤝 Looking for a **remote AI / Data Science role** where I can ship, measure, and explain
 
 ## 💬 Let's talk
+
+🌐 **Portfolio:** [elrath017.pythonanywhere.com](https://elrath017.pythonanywhere.com/)
 
 If you're hiring, building something with agents or RAG, or want to compare notes on imbalanced data, I'd love to hear from you.
 
