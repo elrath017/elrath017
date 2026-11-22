@@ -1,6 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════
      Rahul Kumar Pramanik · profile README
-     Concept: the README is a "Model Card" — because that's how an ML engineer introduces himself.
+     Visual language: black canvas · hairline white networks · cyan data tags
+     Concept: the README is a "Model Card", the way an ML engineer introduces himself.
      ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -8,37 +9,37 @@
 <img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/header-neural.svg" width="100%" alt="Rahul Kumar Pramanik - AI Engineer and Data Scientist"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=720&lines=Building+agents+that+audit+their+own+hallucinations;Teaching+models+to+catch+0.17%25+fraud+in+under+5ms;Turning+raw+data+into+decisions+people+can+trust;Open+to+remote+AI+%2F+Data+Science+roles" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=3FC6D2&center=true&vCenter=true&width=760&lines=%2F%2F+agents+that+audit+their+own+hallucinations;%2F%2F+catching+0.17%25+fraud+in+under+5ms;%2F%2F+raw+data+%E2%86%92+decisions+people+can+trust;%2F%2F+open+to+remote+AI+%2F+Data+Science+roles" alt="typing"/>
 </a>
 
-<br/>
+<br/><br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logo=xgboost&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/PYTHON-0b1f26?style=for-the-badge&logo=python&logoColor=3fc6d2)
+![LangGraph](https://img.shields.io/badge/LANGGRAPH-0b1f26?style=for-the-badge&logo=langchain&logoColor=3fc6d2)
+![XGBoost](https://img.shields.io/badge/XGBOOST-0b1f26?style=for-the-badge&logo=xgboost&logoColor=3fc6d2)
+![FastAPI](https://img.shields.io/badge/FASTAPI-0b1f26?style=for-the-badge&logo=fastapi&logoColor=3fc6d2)
+![Docker](https://img.shields.io/badge/DOCKER-0b1f26?style=for-the-badge&logo=docker&logoColor=3fc6d2)
+![Power BI](https://img.shields.io/badge/POWER_BI-0b1f26?style=for-the-badge&logo=powerbi&logoColor=3fc6d2)
 
-[![Email](https://img.shields.io/badge/Email-Rahulkrpramanik@gmail.com-00d4ff?style=flat-square&logo=gmail&logoColor=white)](mailto:Rahulkrpramanik@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul_Pramanik-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-pramanik-284908225/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-elrath017.pythonanywhere.com-203a43?style=flat-square&logo=python&logoColor=00d4ff)](https://elrath017.pythonanywhere.com/)
+[![Email](https://img.shields.io/badge/EMAIL-Rahulkrpramanik@gmail.com-0b1f26?style=flat-square&logo=gmail&logoColor=3fc6d2&labelColor=04050a)](mailto:Rahulkrpramanik@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Rahul_Pramanik-0b1f26?style=flat-square&logo=linkedin&logoColor=3fc6d2&labelColor=04050a)](https://www.linkedin.com/in/rahul-pramanik-284908225/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-elrath017.pythonanywhere.com-0b1f26?style=flat-square&logo=python&logoColor=3fc6d2&labelColor=04050a)](https://elrath017.pythonanywhere.com/)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/divider.svg" width="100%" alt=""/>
 
-## 🧾 Model Card: `rahul-v1.0`
+### `// 01` &nbsp;MODEL CARD · `rahul-v1.0`
 
-| | |
+| FIELD | VALUE |
 |---|---|
-| **Model type** | Applied AI & Data Science Engineer |
-| **Base architecture** | MCA, BIT Mesra (CGPA 7.88) · BCA (CGPA 8.49) |
-| **Fine-tuned on** | Agentic RAG · Imbalanced classification · MLOps · Analytics dashboards |
-| **Inference latency** | 2–5 ms (when it's an API); a few seconds (when it's me, with coffee) |
-| **Intended use** | GenAI products, ML pipelines, explainable decision systems |
-| **Deployment target** | 🌍 Remote, India-based, open to hybrid |
-| **Status** | 🟢 Available. Currently **open to work** |
+| **MODEL TYPE** | Applied AI & Data Science Engineer |
+| **BASE ARCHITECTURE** | MCA, BIT Mesra (CGPA 7.88) · BCA (CGPA 8.49) |
+| **FINE-TUNED ON** | Agentic RAG · Imbalanced classification · MLOps · Analytics dashboards |
+| **INFERENCE LATENCY** | 2–5 ms (when it's an API); a few seconds (when it's me, with coffee) |
+| **INTENDED USE** | GenAI products, ML pipelines, explainable decision systems |
+| **DEPLOYMENT TARGET** | Remote, India-based, open to hybrid |
+| **STATUS** | `AVAILABLE` · currently open to work |
 
 ```python
 class Rahul:
@@ -55,14 +56,15 @@ class Rahul:
         return "Join a team that ships AI to real users."
 ```
 
----
+<img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/divider.svg" width="100%" alt=""/>
 
-## 🚀 Featured Projects
+### `// 02` &nbsp;FEATURED PROJECTS
 
-### 🧠 [Autonomous Agentic RAG Engine](https://github.com/elrath017/Agentic-rag-System)
+#### `SR - 7832` &nbsp;[Autonomous Agentic RAG Engine](https://github.com/elrath017/Agentic-rag-System)
 > A RAG system that doesn't just answer. It grades its own retrieval, rewrites bad queries, falls back to the web, and audits the final answer for hallucinations.
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#04050a','primaryBorderColor':'#3fc6d2','primaryTextColor':'#ffffff','lineColor':'#8a9aa0','secondaryColor':'#04050a','tertiaryColor':'#04050a','fontFamily':'monospace'}}}%%
 flowchart LR
     Q([Question]) --> R[Hybrid Retrieval<br/>ChromaDB + BM25 + RRF]
     R --> X[Cross-Encoder<br/>Rerank top-4]
@@ -79,15 +81,14 @@ flowchart LR
 
 `LangGraph` `ChromaDB` `BM25Okapi` `Ragas` `FastAPI` `Streamlit`
 
----
+<br/>
 
-### 🛡️ Real-Time Fraud Detection API with Explainable AI
-
+#### `P - 8931` &nbsp;Real-Time Fraud Detection API with Explainable AI
 > Fraud is **0.17%** of transactions. Accuracy is a lie here, so I optimized for money.
 
 <div align="center">
 
-| 🎯 PR-AUC | 🔍 Recall | ⚡ Latency | 💰 Loss reduction |
+| PR-AUC | RECALL | LATENCY | LOSS REDUCTION |
 |:---:|:---:|:---:|:---:|
 | **0.9978** | **97.56%** <br/><sub>40 / 41 frauds caught</sub> | **2–5 ms** <br/><sub>vs. 40 ms SLA</sub> | **95.69%** <br/><sub>vs. passive baseline</sub> |
 
@@ -99,9 +100,9 @@ flowchart LR
 
 `XGBoost` `SHAP` `FastAPI` `Evidently AI` `Docker`
 
----
+<br/>
 
-### 📊 [Financial Credit Risk & Loan Portfolio Dashboard](https://github.com/elrath017/Loan-default-risk-analysis)
+#### `VA - 2904` &nbsp;[Financial Credit Risk & Loan Portfolio Dashboard](https://github.com/elrath017/Loan-default-risk-analysis)
 
 Multi-page Power BI dashboard over **50,000+ loan records**: star-schema modeling in Power Query, **25+ DAX measures** (default probability, LGD, delinquent balances) and cohort-level risk segmentation.
 
@@ -110,70 +111,68 @@ Multi-page Power BI dashboard over **50,000+ loan records**: star-schema modelin
 `Power BI` `DAX` `Power Query` `Star Schema`
 
 <details>
-<summary><b>🗂️ More projects: earlier experiments that got me here</b></summary>
+<summary><b><code>+ MORE PROJECTS</code> · earlier experiments that got me here</b></summary>
 <br/>
 
-| Project | What it does | Stack |
+| PROJECT | WHAT IT DOES | STACK |
 |---|---|---|
-| 📰 **GenAI News & Document Query Engine** | RAG semantic search over documents and news, with a **local** Llama 3.2 3B served through the LM Studio API and a Streamlit front end | `LangChain` `FAISS` `Llama 3.2` `Streamlit` |
-| 🖼️ **Image Caption Generator** | Image captioning with VGG16 feature extraction + LSTM sequence generation, multilingual captions, React front end | `TensorFlow` `VGG16` `LSTM` `React` |
-| 🎬 **Movie Recommendation System** | Content-based filtering with cosine similarity over vectorized movie metadata, searchable Streamlit UI | `Scikit-learn` `Pandas` `Streamlit` |
-| 📺 **Netflix Data Analysis** | EDA and reporting pipeline surfacing trends across movies and TV shows | `Pandas` `NumPy` `Matplotlib` |
-| 💳 **Loan Default Risk Dashboard** | Early Power BI version with YoY analysis, credit-score bins, income brackets and demographic insights | `Power BI` `DAX` |
+| **GenAI News & Document Query Engine** | RAG semantic search over documents and news, with a **local** Llama 3.2 3B served through the LM Studio API and a Streamlit front end | `LangChain` `FAISS` `Llama 3.2` `Streamlit` |
+| **Image Caption Generator** | Image captioning with VGG16 feature extraction + LSTM sequence generation, multilingual captions, React front end | `TensorFlow` `VGG16` `LSTM` `React` |
+| **Movie Recommendation System** | Content-based filtering with cosine similarity over vectorized movie metadata, searchable Streamlit UI | `Scikit-learn` `Pandas` `Streamlit` |
+| **Netflix Data Analysis** | EDA and reporting pipeline surfacing trends across movies and TV shows | `Pandas` `NumPy` `Matplotlib` |
+| **Loan Default Risk Dashboard** | Early Power BI version with YoY analysis, credit-score bins, income brackets and demographic insights | `Power BI` `DAX` |
 
 </details>
 
----
+<img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/divider.svg" width="100%" alt=""/>
 
-## 🧰 Toolbox
+### `// 03` &nbsp;TOOLBOX
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,postgres,mysql,docker,linux,git,fastapi,flask,tensorflow,react,vscode,pandas,numpy&perline=15" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,postgres,mysql,docker,linux,git,fastapi,flask,tensorflow,react,vscode,pandas,numpy&perline=15&theme=dark" alt="skills"/>
 
 </div>
 
-| Layer | Tools |
+| LAYER | TOOLS |
 |---|---|
-| 🤖 **Generative AI & NLP** | LangGraph · LangChain · Hybrid Search · RRF · Cross-Encoder Reranking · ChromaDB · FAISS · Ragas · Prompt Engineering |
-| 📈 **ML & Data Science** | XGBoost · Scikit-learn · SMOTE / `scale_pos_weight` · Feature Engineering · TreeSHAP · KS Testing · Cost-Matrix Optimization |
-| ⚙️ **Backend & MLOps** | FastAPI · Uvicorn · Docker · DevContainers · Evidently AI · Streamlit · Flask |
-| 🗄️ **Data & Languages** | Python · C++ · JavaScript · SQL (PostgreSQL, MySQL) · Pandas · NumPy · Matplotlib · TensorFlow · Power BI |
+| **GENERATIVE AI & NLP** | LangGraph · LangChain · Hybrid Search · RRF · Cross-Encoder Reranking · ChromaDB · FAISS · Ragas · Prompt Engineering |
+| **ML & DATA SCIENCE** | XGBoost · Scikit-learn · SMOTE / `scale_pos_weight` · Feature Engineering · TreeSHAP · KS Testing · Cost-Matrix Optimization |
+| **BACKEND & MLOPS** | FastAPI · Uvicorn · Docker · DevContainers · Evidently AI · Streamlit · Flask |
+| **DATA & LANGUAGES** | Python · C++ · JavaScript · SQL (PostgreSQL, MySQL) · Pandas · NumPy · Matplotlib · TensorFlow · Power BI |
 
----
+<img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/divider.svg" width="100%" alt=""/>
 
-## 📡 GitHub Telemetry
+### `// 04` &nbsp;GITHUB TELEMETRY
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=elrath017&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elrath017&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00d4ff&text_color=c9d1d9" alt="languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=elrath017&show_icons=true&hide_border=false&border_color=1f2d33&bg_color=04050a&title_color=3fc6d2&icon_color=3fc6d2&text_color=ffffff&border_radius=10" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elrath017&layout=compact&hide_border=false&border_color=1f2d33&bg_color=04050a&title_color=3fc6d2&text_color=ffffff&border_radius=10" alt="languages"/>
 
-<img src="https://streak-stats.demolab.com?user=elrath017&theme=tokyonight&hide_border=true&background=0f2027&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=elrath017&background=04050A&border=1F2D33&ring=3FC6D2&fire=3FC6D2&currStreakNum=FFFFFF&currStreakLabel=3FC6D2&sideNums=FFFFFF&sideLabels=8A9AA0&dates=8A9AA0&stroke=1F2D33&borderRadius=10" alt="streak"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/divider.svg" width="100%" alt=""/>
 
-## 🔭 Currently
+### `// 05` &nbsp;CURRENTLY
 
-- 🧪 Building a **hybrid DS + AI project** that connects classical ML with LLM agents
-- 🌐 Evolving my **[portfolio site](https://elrath017.pythonanywhere.com/)**, with an LLM chatbot that can talk about my projects
-- 🌱 Learning: **AI agents & LangGraph** · **LLM fine-tuning** · **MLOps & deployment** · advanced GenAI apps · advanced Power BI
-- 🤝 Looking for a **remote AI / Data Science role** where I can ship, measure, and explain
+- **BUILDING** a hybrid DS + AI project that connects classical ML with LLM agents
+- **EVOLVING** my [portfolio site](https://elrath017.pythonanywhere.com/), with an LLM chatbot that can talk about my projects
+- **LEARNING** AI agents & LangGraph · LLM fine-tuning · MLOps & deployment · advanced GenAI apps · advanced Power BI
+- **LOOKING FOR** a remote AI / Data Science role where I can ship, measure, and explain
 
-## 💬 Let's talk
-
-🌐 **Portfolio:** [elrath017.pythonanywhere.com](https://elrath017.pythonanywhere.com/)
+### `// 06` &nbsp;LET'S TALK
 
 If you're hiring, building something with agents or RAG, or want to compare notes on imbalanced data, I'd love to hear from you.
 
-> 💡 *Fun fact: I like combining AI, analytics and visualization to build things that are intelligent **and** actually useful.*
+> *Fun fact: I like combining AI, analytics and visualization to build things that are intelligent **and** actually useful.*
 
 <div align="center">
 
-[![Email me](https://img.shields.io/badge/Say_hello-Rahulkrpramanik@gmail.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rahulkrpramanik@gmail.com)
+[![Email me](https://img.shields.io/badge/SAY_HELLO-Rahulkrpramanik@gmail.com-0b1f26?style=for-the-badge&logo=gmail&logoColor=3fc6d2&labelColor=04050a)](mailto:Rahulkrpramanik@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00d4ff,50:203a43,100:0f2027&section=footer" width="100%" alt="footer"/>
+<img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/footer.svg" width="100%" alt="Open to remote AI and Data Science roles"/>
 
 </div>
