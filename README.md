@@ -1,7 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════
      Rahul Kumar Pramanik · profile README
      Visual language: black canvas · hairline white networks · cyan data tags
-     Concept: the README is a "Model Card", the way an ML engineer introduces himself.
      ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -27,19 +26,9 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/sec-model-card.svg" width="100%" alt="01 Model Card"/>
 
-### `// 01` &nbsp;MODEL CARD · `rahul-v1.0`
-
-| FIELD | VALUE |
-|---|---|
-| **MODEL TYPE** | Applied AI & Data Science Engineer |
-| **BASE ARCHITECTURE** | MCA, BIT Mesra (CGPA 7.88) · BCA (CGPA 8.49) |
-| **FINE-TUNED ON** | Agentic RAG · Imbalanced classification · MLOps · Analytics dashboards |
-| **INFERENCE LATENCY** | 2–5 ms (when it's an API); a few seconds (when it's me, with coffee) |
-| **INTENDED USE** | GenAI products, ML pipelines, explainable decision systems |
-| **DEPLOYMENT TARGET** | Remote, India-based, open to hybrid |
-| **STATUS** | `AVAILABLE` · currently open to work |
+<img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/model-card.svg" width="100%" alt="Model card rahul-v1.0: Applied AI and Data Science Engineer, MCA BIT Mesra, remote India-based, available"/>
 
 ```python
 class Rahul:
@@ -56,11 +45,10 @@ class Rahul:
         return "Join a team that ships AI to real users."
 ```
 
-<img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/sec-projects.svg" width="100%" alt="02 Featured Projects"/>
 
-### `// 02` &nbsp;FEATURED PROJECTS
+<a href="https://github.com/elrath017/Agentic-rag-System"><img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/card-rag.svg" width="100%" alt="Autonomous Agentic RAG Engine"/></a>
 
-#### `SR - 7832` &nbsp;[Autonomous Agentic RAG Engine](https://github.com/elrath017/Agentic-rag-System)
 > A RAG system that doesn't just answer. It grades its own retrieval, rewrites bad queries, falls back to the web, and audits the final answer for hallucinations.
 
 ```mermaid
@@ -79,36 +67,24 @@ flowchart LR
 
 **What's inside:** LangGraph cyclic state machine · dense + sparse retrieval fused with Reciprocal Rank Fusion · LLM cross-encoder reranking · PDF/TXT/URL ingestion with boilerplate stripping · Ragas evaluation (Faithfulness, Answer Relevance, Context Recall) · async FastAPI + Streamlit dashboard.
 
-`LangGraph` `ChromaDB` `BM25Okapi` `Ragas` `FastAPI` `Streamlit`
-
 <br/>
 
-#### `P - 8931` &nbsp;Real-Time Fraud Detection API with Explainable AI
+<img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/card-fraud.svg" width="100%" alt="Real-Time Fraud Detection API: 0.9978 PR-AUC, 97.56% recall, 2 to 5 ms latency, 95.69% loss reduction"/>
+
 > Fraud is **0.17%** of transactions. Accuracy is a lie here, so I optimized for money.
 
-<div align="center">
-
-| PR-AUC | RECALL | LATENCY | LOSS REDUCTION |
-|:---:|:---:|:---:|:---:|
-| **0.9978** | **97.56%** <br/><sub>40 / 41 frauds caught</sub> | **2–5 ms** <br/><sub>vs. 40 ms SLA</sub> | **95.69%** <br/><sub>vs. passive baseline</sub> |
-
-</div>
-
+- **Recall:** caught 40 of 41 test frauds, with the decision threshold tuned on validation data
 - **Cost-matrix decision engine** (`FN = 10 × FP`) tunes thresholds to business loss, not just metrics
 - **TreeSHAP** gives sub-3 ms feature attribution plus plain-English risk reason codes
-- **Evidently AI + KS tests** watch streaming feature drift in production
-
-`XGBoost` `SHAP` `FastAPI` `Evidently AI` `Docker`
+- **Evidently AI + KS tests** watch streaming feature drift in production; predictions are served in 2–5 ms against a 40 ms SLA
 
 <br/>
 
-#### `VA - 2904` &nbsp;[Financial Credit Risk & Loan Portfolio Dashboard](https://github.com/elrath017/Loan-default-risk-analysis)
+<a href="https://github.com/elrath017/Loan-default-risk-analysis"><img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/card-credit.svg" width="100%" alt="Financial Credit Risk and Loan Portfolio Dashboard"/></a>
 
 Multi-page Power BI dashboard over **50,000+ loan records**: star-schema modeling in Power Query, **25+ DAX measures** (default probability, LGD, delinquent balances) and cohort-level risk segmentation.
 
 <div align="center"><img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/dashboard.svg" width="100%" alt="Animated dashboard preview"/></div>
-
-`Power BI` `DAX` `Power Query` `Star Schema`
 
 <details>
 <summary><b><code>+ MORE PROJECTS</code> · earlier experiments that got me here</b></summary>
@@ -124,26 +100,11 @@ Multi-page Power BI dashboard over **50,000+ loan records**: star-schema modelin
 
 </details>
 
-<img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/sec-toolbox.svg" width="100%" alt="03 Toolbox"/>
 
-### `// 03` &nbsp;TOOLBOX
+<img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/toolbox.svg" width="100%" alt="Toolbox: generative AI and NLP, ML and data science, backend and MLOps, data and languages"/>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,postgres,mysql,docker,linux,git,fastapi,flask,tensorflow,react,vscode,pandas,numpy&perline=15&theme=dark" alt="skills"/>
-
-</div>
-
-| LAYER | TOOLS |
-|---|---|
-| **GENERATIVE AI & NLP** | LangGraph · LangChain · Hybrid Search · RRF · Cross-Encoder Reranking · ChromaDB · FAISS · Ragas · Prompt Engineering |
-| **ML & DATA SCIENCE** | XGBoost · Scikit-learn · SMOTE / `scale_pos_weight` · Feature Engineering · TreeSHAP · KS Testing · Cost-Matrix Optimization |
-| **BACKEND & MLOPS** | FastAPI · Uvicorn · Docker · DevContainers · Evidently AI · Streamlit · Flask |
-| **DATA & LANGUAGES** | Python · C++ · JavaScript · SQL (PostgreSQL, MySQL) · Pandas · NumPy · Matplotlib · TensorFlow · Power BI |
-
-<img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/divider.svg" width="100%" alt=""/>
-
-### `// 04` &nbsp;GITHUB TELEMETRY
+<img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/sec-telemetry.svg" width="100%" alt="04 GitHub Telemetry"/>
 
 <div align="center">
 
@@ -154,16 +115,14 @@ Multi-page Power BI dashboard over **50,000+ loan records**: star-schema modelin
 
 </div>
 
-<img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/divider.svg" width="100%" alt=""/>
-
-### `// 05` &nbsp;CURRENTLY
+<img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/sec-now.svg" width="100%" alt="05 Currently"/>
 
 - **BUILDING** a hybrid DS + AI project that connects classical ML with LLM agents
 - **EVOLVING** my [portfolio site](https://elrath017.pythonanywhere.com/), with an LLM chatbot that can talk about my projects
 - **LEARNING** AI agents & LangGraph · LLM fine-tuning · MLOps & deployment · advanced GenAI apps · advanced Power BI
 - **LOOKING FOR** a remote AI / Data Science role where I can ship, measure, and explain
 
-### `// 06` &nbsp;LET'S TALK
+<img src="https://raw.githubusercontent.com/elrath017/elrath017/main/assets/sec-contact.svg" width="100%" alt="06 Let's talk"/>
 
 If you're hiring, building something with agents or RAG, or want to compare notes on imbalanced data, I'd love to hear from you.
 
